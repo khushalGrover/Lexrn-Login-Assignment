@@ -5,4 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes: []
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 1f04806ef865eb846bd4d0bf48312fe4, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7e629b3c9f9ae604689957659124c51d, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: fe7aff5d71117ac44ad178147f56bc06, type: 2}
